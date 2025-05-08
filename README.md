@@ -24,7 +24,7 @@ DanCV is an intuitive and powerful resume builder designed to help job seekers c
 
 ### **Web Version**  
 
-Access DanCV directly at: [https://dancv.app](https://dancv.app)  
+Access DanCV directly at: [https://dancv.vercel.app/](https://dancv.vercel.app/)  
 
 ### **Local Development** (For Contributors)  
 ```bash
