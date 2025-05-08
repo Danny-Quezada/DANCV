@@ -1,54 +1,57 @@
-# React + TypeScript + Vite
+# **DanCV – Professional Resume Builder**  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Create stunning, ATS-friendly resumes in minutes!**  
 
-Currently, two official plugins are available:
+DanCV is an intuitive and powerful resume builder designed to help job seekers craft professional resumes with ease. Whether you're a student, a seasoned professional, or changing careers, DanCV provides customizable templates and smart tools to make your resume stand out.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Features**  
 
-## Expanding the ESLint configuration
+✅ **Modern Templates** – Choose from multiple ATS-optimized designs.  
+✅ **Easy-to-Use Editor** – Fill in your details with a structured form.  
+✅ **Real-Time Preview** – See changes instantly as you edit.  
+✅ **Multiple Export Formats** – Download as **PDF**.
+✅ **Custom Sections** – Add skills, projects, certifications, and more.  
+✅ **Mobile-Friendly** – Works seamlessly on desktop and mobile.  
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## **How to Use**  
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+1. **Select a Template** – Pick a design that fits your style.  
+2. **Fill in Your Details** – Enter your work experience, education, skills, etc.  
+3. **Customize & Preview** – Adjust formatting and see live updates.  
+4. **Download or Share** – Export your resume in PDF, DOCX, or generate a shareable link.  
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## **Installation**  
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+### **Web Version**  
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+Access DanCV directly at: [https://dancv.app](https://dancv.app)  
+
+### **Local Development** (For Contributors)  
+```bash
+git clone https://github.com/Danny-Quezada/DANCV.git
+cd dancv
+npm install
+npm run dev
+```  
+
+## **Tech Stack**  
+- **Frontend**: React.js, Tailwind CSS 
+- **PDF Generation**: react-to-print
+
+
+---  
+
+
+👨‍💻 **Developer**: [Danny Quezada](https://github.com/Danny-Quezada)
+
+
+---
+
+## Demo Video
+
+<img src="./documentation/videos/Presentation.gif"/>
+
+---
+
+
+Craft the perfect resume and land your dream job with **DanCV!** 🚀
