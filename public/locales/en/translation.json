@@ -1,0 +1,71 @@
+{
+  "Traduction": "Choose your language",
+  "Information": {
+    "Personal Information": "Personal Information",
+    "Summary": "Summary",
+    "Education": "Education",
+    "Skills": "Skills",
+    "Experience": "Experience",
+    "Templates": "Templates",
+    "Contact": "Contact",
+    "Present": "Present",
+    "Nationality": "Nationality"
+  },
+  "Personal Information": {
+    "Name": "Name",
+    "Email": "Email",
+    "Phone": "Phone",
+    "Address": "Address",
+    "City": "City",
+    "Country": "Country",
+    "State": "State",
+    "Postal Code": "Postal Code"
+  },
+  "Summary": {
+    "Title": "Professional Summary"
+  },
+  "Education": {
+    "School": "School",
+    "Degree": "Degree",
+    "Start Date": "Start Date",
+    "End Date": "End Date",
+    "Description": "Description",
+    "Location": "Location",
+    "Button": "Add Education"
+  },
+  "Skill": {
+    "Skill": "Skill Name",
+    "Proffiency level": "Profficiency Level",
+    "Button": "Add Skill",
+    "Subtitle": "Your Skills"
+  },
+  "Experience": {
+    "Company": "Company",
+    "Position": "Position",
+    "Start Date": "Start Date",
+    "End Date": "End Date",
+    "Description": "Description",
+    "Button": "Add Experience",
+    "Subtitle": "Your Experience",
+    "EmploymentType": "Employment Type"
+  },
+
+  "EmploymentType": {
+    "full-time": "Full Time",
+    "part-time": "Part Time",
+    "internship": "Internship",
+    "freelance": "Freelance",
+    "volunteer": "Volunteer"
+  },
+  "Level": {
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced",
+    "expert": "Expert"
+  },
+  "Templates": {
+    "ElegantTemplate": "Elegant Template",
+    "SimpleTemplate": "Simple Template",
+    "ProfessionalTemplate": "Professional Template"
+  }
+}

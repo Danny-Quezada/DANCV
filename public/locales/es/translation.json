@@ -1,0 +1,72 @@
+{
+  "Traduction": "Elige tu idioma",
+  "Information": {
+    "Personal Information": "Información Personal",
+    "Summary": "Resumen",
+    "Education": "Educación",
+    "Skills": "Habilidades",
+    "Experience": "Experiencia",
+    "Templates": "Plantillas",
+    "Contact": "Contacto",
+    "Present": "Presente",
+    "Nationality": "Nacionalidad"
+  },
+
+  "Personal Information": {
+    "Name": "Nombre",
+    "Email": "Correo Electrónico",
+    "Phone": "Celular",
+    "Address": "Dirección",
+    "City": "Ciudad",
+    "Country": "País",
+    "State": "Estado",
+    "Postal Code": "Código Postal"
+  },
+  "Education": {
+    "School": "Escuela",
+    "Degree": "Grado alcanzado",
+    "Start Date": "Fecha de Inicio",
+    "End Date": "Fecha de Finalización",
+    "Description": "Descripción",
+    "Location": "Ubicación",
+    "Button": "Agregar Educación"
+  },
+  "Skill": {
+    "Skill": "Nombre de la Habilidad",
+    "Proffiency level": "Nivel de Dominio",
+    "Button": "Agregar Habilidad",
+    "Subtitle": "Tus habilidades"
+  },
+  "Summary": {
+    "Title": "Resumen Profesional"
+  },
+  "Experience": {
+    "Company": "Compañía",
+    "Position": "Posición",
+    "Start Date": "Fecha de Inicio",
+    "End Date": "Fecha de Finalización",
+    "Description": "Descripción",
+    "Button": "Agregar Experiencia",
+    "Subtitle": "Tu Experiencia",
+    "EmploymentType": "Tipo de Empleo"
+  },
+
+  "EmploymentType": {
+    "full-time": "Tiempo Completo",
+    "part-time": "Tiempo Parcial",
+    "internship": "Pasantía",
+    "freelance": "Freelance",
+    "volunteer": "Voluntario"
+  },
+  "Level": {
+    "beginner": "Principiante",
+    "intermediate": "Intermedio",
+    "advanced": "Avanzado",
+    "expert": "Experto"
+  },
+  "Templates": {
+    "ElegantTemplate": "Plantilla Elegante",
+    "SimpleTemplate": "Plantilla Simple",
+    "ProfessionalTemplate": "Plantilla Profesional"
+  }
+}
